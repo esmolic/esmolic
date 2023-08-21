@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Ema! 👩‍💻
-- 👀 I’m interested in a wide range of computer and data science topics.
-- 🌱 I’m currently honing my cybersecurity skills. 🕵️‍♀️
+- Interested in a wide range of computer and data science topics. FER CS Graduate (2023).
+- I’m currently honing my cybersecurity skills. 🕵️‍♀️
+
+Repos mostly contain features course assignments, own projects incoming!
 
   <h3 align="center" >Reach me: </h3>
 
