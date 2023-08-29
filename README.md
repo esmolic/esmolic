@@ -3,6 +3,7 @@
 - I’m currently honing my cybersecurity skills. 🕵️‍♀️
 
 Repos mostly contain featured course assignments, own projects incoming!
+(currently working on a music theory app featuring AI and web/Android app development - Rach 🎹🎶)
 
   <h3 align="center" >Reach me: </h3>
 
