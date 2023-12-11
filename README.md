@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Ema! 👩‍💻
-- Interested in a wide range of computer and data science topics. FER CS Graduate (2023).
-- I’m currently honing my cybersecurity skills. 🕵️‍♀️
+- FER CS Graduate (2023).
 
-Repos mostly contain featured course assignments, own projects incoming!
 - currently working on a music theory app featuring AI and web/Android app development - Rach 🎹🎶 (https://en.wikipedia.org/wiki/Sergei_Rachmaninoff)
 
   <h3 align="center" >Reach me: </h3>
